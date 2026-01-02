@@ -9,3 +9,4 @@ Street Safety Monitor
 -> Example Use Cases -Smart streetlight surveillance -School and campus perimeter monitoring -Public space safety analytics -Low-cost security systems for small areas
 
 -> Live Demo
+https://street-safety-monitor-bpsgnkd6u2moepb8qwssa4.streamlit.app/
