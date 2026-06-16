@@ -29,4 +29,5 @@ AI-Powered Real-Time Street Safety Detection System The Street Safety Monitor is
 -Low-cost security systems for small areas
 
 -> Live Demo
+
 https://street-safety-monitor-bpsgnkd6u2moepb8qwssa4.streamlit.app/
